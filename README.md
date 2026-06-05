@@ -1,5 +1,3 @@
-Here’s the cleaner version using numbers instead of `#` and ⭐ symbols:
-
 1. Codeforces Journey 🚀
 
 Hi! I'm Srishti 👋
@@ -14,19 +12,30 @@ Most of the solutions are written in Java.
 
 2. My Codeforces Profile
 
-🔗 [https://codeforces.com/profile/srishti_kumari](https://codeforces.com/profile/srishti_kumari)
+🔗 https://codeforces.com/profile/srishti_kumari
 
-[![Codeforces Stats][(https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari)](https://codeforces.com/profile/srishti_kumari)](https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari&theme=dark
-)
+[[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari)](https://codeforces.com/profile/srishti_kumari)](https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari&theme=dark)
 
 ---
 
+3. Repository Structure
+
+```bash
+Codeforces-Solutions/
+│
+├── 800-Rating/
+├── 900-Rating/
+├── 1000-Rating/
+├── 1200-Rating/
+├── Contests/
+└── README.md
+```
 
 Problems are organized according to their rating for easier revision and practice.
 
 ---
 
-3. Topics I’m Practicing
+4. Topics I’m Practicing
 
 * Arrays
 * Strings
@@ -41,13 +50,13 @@ Problems are organized according to their rating for easier revision and practic
 
 ---
 
-4. Language Used
+5. Language Used
 
 * Java ☕
 
 ---
 
-5. My Goals
+6. My Goals
 
 * Solve problems consistently
 * Improve logical thinking
@@ -56,17 +65,17 @@ Problems are organized according to their rating for easier revision and practic
 
 ---
 
-6. Progress
+7. Progress
 
 I’ll continue updating this repository regularly with new problems and contest solutions.
 
 ---
 
-7. Connect With Me
+8. Connect With Me
 
-GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
-Codeforces: [https://codeforces.com/profile/srishti_kumari](https://codeforces.com/profile/srishti_kumari)
+Codeforces: https://codeforces.com/profile/srishti_kumari
 
 ---
 
