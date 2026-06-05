@@ -16,7 +16,8 @@ Most of the solutions are written in Java.
 
 🔗 [https://codeforces.com/profile/srishti_kumari](https://codeforces.com/profile/srishti_kumari)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari)](https://codeforces.com/profile/srishti_kumari)
+[![Codeforces Stats][(https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari)](https://codeforces.com/profile/srishti_kumari)](https://codeforces-readme-stats.vercel.app/api/card?username=srishti_kumari&theme=dark
+)
 
 ---
 
