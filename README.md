@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (10)
 - [math](#math) (6)
 - [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -40,6 +40,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
@@ -80,6 +81,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
