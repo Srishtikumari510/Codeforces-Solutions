@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 7 |
+| 19 | 9 |
 
 ---
 
@@ -14,8 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (13)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (14)
 - [math](#math) (6)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
@@ -35,6 +37,12 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -45,10 +53,17 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.java) |
