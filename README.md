@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 9 |
+| 24 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (18)
-- [math](#math) (8)
+- [math](#math) (9)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 
@@ -94,6 +94,7 @@
 | 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 
 ### sortings
 
