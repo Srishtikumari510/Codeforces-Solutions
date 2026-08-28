@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 9 |
+| 25 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (9)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
@@ -64,6 +64,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 112B | [Petya and Square](https://codeforces.com/contest/112/problem/B) | 1200 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/112/B%20-%20Petya%20and%20Square/solution.java) |
