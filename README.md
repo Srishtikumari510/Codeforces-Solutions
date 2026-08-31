@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 10 |
+| 27 | 10 |
 
 ---
 
@@ -15,13 +15,13 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (9)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -52,6 +52,7 @@
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
@@ -78,6 +79,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
@@ -124,6 +126,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ---
