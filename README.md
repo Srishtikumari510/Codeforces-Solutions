@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 10 |
+| 29 | 10 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (21)
 - [math](#math) (9)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (8)
 - [two pointers](#two-pointers) (3)
 
@@ -54,6 +54,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1873/D%20-%201D%20Eraser/solution.java) |
 
@@ -109,6 +110,7 @@
 |---|---------|------------|----------|
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### strings
