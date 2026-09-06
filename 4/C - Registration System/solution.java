@@ -1,31 +1,41 @@
 import java.util.*;
  
-public class Main
-{
-    public static void main(String args[])
-    {
-        Scanner sc = new Scanner(System.in);
+public class Main {
+    public static void main(String args[]) {
  
-        HashMap<String, Integer> map = new HashMap<>();
+        Scanner sc = new Scanner(System.in);
  
         int a = sc.nextInt();
  
-        while(a-- > 0)
-        {
-            String h = sc.next();
+        HashMap<String, Integer> h1 = new HashMap<>();
  
-            int count = map.getOrDefault(h, 0);
+        for (int i = 0; i < a; i++) {
  
-            if(count == 0)
-            {
+            String name = sc.next();
+ 
+            if (!h1.containsKey(name)) {
+ 
                 System.out.println("OK");
-                map.put(h, 1);
-            }
-            else
-            {
-                System.out.println(h + count);
-                map.put(h, count + 1);
+                h1.put(name, 1);
+ 
+            } else {
+ 
+                int count = h1.get(name);
+ 
+                String s = name + count;
+ 
+                while (h1.containsKey(s)) {
+                    count++;
+                    s = name + count;
+                }
+ 
+                System.out.println(s);
+ 
+                h1.put(s, 1);
+                h1.put(name, count + 1);
             }
         }
+ 
+        sc.close();
     }
 }
