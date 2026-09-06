@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 10 |
+| 30 | 10 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (9)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (21)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (22)
 - [math](#math) (9)
 - [sortings](#sortings) (4)
 - [strings](#strings) (8)
@@ -62,12 +62,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.java) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/2/A%20-%20Winner/solution.java) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 8](https://github.com/Srishtikumari510/https-github.com-Srishtikumari510-Codeforces-Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
